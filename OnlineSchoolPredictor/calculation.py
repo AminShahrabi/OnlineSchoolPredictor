@@ -18,7 +18,7 @@ class Calculation:
 
         if pullotion <= 100:
             self.pl_percent = 0
-        
+
         elif pullotion > 100 and pullotion < 120:
             self.pl_percent = 1.75
 
